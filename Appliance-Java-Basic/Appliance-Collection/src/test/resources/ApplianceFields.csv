@@ -1,0 +1,11 @@
+long,id,1
+java.lang.String,name,1
+model.com.vladproduction.appliances.Client,client,0
+model.com.vladproduction.appliances.Employee,employee,0
+model.com.vladproduction.appliances.Category,category,1
+java.lang.String,model,1
+model.com.vladproduction.appliances.Manufacturer,manufacturer,1
+model.com.vladproduction.appliances.PowerType,powerType,1
+java.lang.String,characteristic,1
+java.lang.String,description,1
+int,power,1
